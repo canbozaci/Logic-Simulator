@@ -1,7 +1,7 @@
 # Logic-Simulator
 Logic Simulator done in C++ with OOP Paradigm
 
-Project is in master branch. This project was done in Visual Studio using SFML library. It implements a basic Logic Simulator including some primitive gates, clock, D Flip Flop, LED, VDD and GND. Singly Linked List is being used for controlling the elements.
+This project was done in Visual Studio using SFML library. It implements a basic Logic Simulator including some primitive gates, clock, D Flip Flop, LED, VDD and GND. Singly Linked List is being used for controlling the elements.
  
 Objects in toolbar can be moved to the workbench. If object is not dragged into workbench it will be deleted. By clicking into the ports of the object, a wire will appear if you click into the another objects wire than it will be connected to that object. Input to input or output to output wire connections are prevented. If a pin is clicked (wire being created) and if the user clicks into the space which is not suitable port than wire will be deleted.
 
